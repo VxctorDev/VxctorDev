@@ -1,8 +1,4 @@
-<p align='center'><a href="https://github.com/TGUiDev"><img height="200" src="https://imgur.com/cxyi3WZ.png"" ></a>&nbsp;&nbsp;</p>
-
-<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<h3 align="center">I'm <b>Gui.Dev</b> (19y)! 😎</h3>
+<h3 align="center">I'm <b>Victor Developer (VxctorDev)</b> (14y)!</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -11,11 +7,10 @@
 <br>
 <br>
 
-<a href="https://github.com/TGuiDev" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
-<a href="https://instagram.com/gui.dev" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://t.me/@muryo" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://wa.me/+5519999897566" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://twitter.com/TGuiDev" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://github.com/VxctorDev" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+<a href="https://instagram.com/vxctordev" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://discord.gg/oferinha" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://open.spotify.com/user/31jpiqenjx533rrtuogmsp24kan4?si=yuAsTjMFQWuVe9TDiDodSg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 
 </h2>
 
@@ -35,34 +30,24 @@
 - **Language**
 
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-   ![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
-   ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
    ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-   ![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
-
-- **Website**
-
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Database**
 
-   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+   ![QuickDB]()
    ![MongoDB](https://img.shields.io/badge/MongoDB-2e2d2b?style=for-the-badge&logo=mongodb&logoColor=green)
-   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 - **Software & Tools**
 
-   ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - **IDE**
 
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   ![JetBrains](https://img.shields.io/badge/JetBrains-FFA500.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-   ![Sublime](https://img.shields.io/badge/Sublime-202124.svg?style=for-the-badge&logo=sublime-text&logoColor=orange)
+   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+   ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -70,9 +55,9 @@
 <h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
 
 <div align="center">
-   <a href="https://github.com/TGUiDev/">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGuiDev&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="TGUiDev"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGuiDev&layout=compact&theme=synthwave" width="0"  alt="TGUiDev"/>
-     <img src="https://github-profile-trophy.vercel.app/?username=TGuiDev&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="TGUiDev"/>
+   <a href="https://github.com/VxctorDev/">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VxctorDev&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="VxctorDev"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VxctorDev&layout=compact&theme=synthwave" width="0"  alt="VxctorDev"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=VxctorDev&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="VxctorDev"/>
    </a>
 </div>
