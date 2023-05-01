@@ -1,4 +1,5 @@
-<h3 align="center">I'm <b>Victor Developer (VxctorDev)</b> (14y)!</h3>
+<h3 align="center">My name is <b>Victor Developer (VxctorDev)</b></h3>
+<h4 align="center">Olá meu nome e João Victor, tenho 14 anos e sou programador de robôs para redes sociais em gerais.</h4>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -9,7 +10,6 @@
 
 <a href="https://github.com/VxctorDev" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 <a href="https://instagram.com/vxctordev" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://discord.gg/oferinha" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://open.spotify.com/user/31jpiqenjx533rrtuogmsp24kan4?si=yuAsTjMFQWuVe9TDiDodSg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 
 </h2>
@@ -18,10 +18,13 @@
 
 <h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
-- Programador **há 4 anos** (_23.08.2019_).
-- Meu passa-tempo são programações de bots avançados.
-- Gosto muito de ouvir *Trap's* e *Rap*.
-- Cursando **TI** e **Programação Avançada**.
+- 💻 Programador **há 4 anos** (_23.08.2019_).
+- ✨ Meu passa-tempo são programações de bots avançados.
+- 🎵 Gosto muito de ouvir *Trap's* e *Rap*.
+- 📚 Cursando **TI** e **Programação Avançada**.
+- 🔗 Meu site: **Coming Soon...**
+- 👑 Fundador & Coordenador da **Nesquix Group**.
+- 🌐 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. - **Thales Valentim**
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
